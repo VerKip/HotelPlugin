@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Users\veram\AppData\Roaming\Autodesk\AutodeskRevitAPITraining\HotelPlugin.dll"</Assembly>
+		<AddInId>B7428E76-DC75-498F-BACE-CC202761B7F8</AddInId>
+		<FullClassName>HotelPlugin.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Отверстия</Text>
+	</AddIn>
+</RevitAddIns>
